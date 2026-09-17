@@ -13,6 +13,8 @@ Created and managed user accounts in Microsoft Entra ID as part of a hands-on IA
 
 ### 2. Cloud Provisioning and Licensing
 Practiced cloud-based user provisioning and license assignments.
+<img width="935" height="416" alt="IMG_9234" src="https://github.com/user-attachments/assets/4cea9cd7-2a3e-405c-b60d-a598fe54f6a9" />
+
 
 ### 3. Role Assignments (RBAC)
 Assigned directory roles and explored role-based access control and least privilege.
