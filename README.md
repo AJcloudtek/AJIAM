@@ -28,7 +28,9 @@ Configured security groups and assigned users to groups to manage access.
 ### 5. Identity Lifecycle Management (Joiner–Mover–Leaver)
 
 Practiced identity lifecycle management in Microsoft Entra ID, including user provisioning, changes to employee attributes, and offboarding.
+### Joiner – User Onboarding
 
+Created a new user in Microsoft Entra ID and configured initial access through user provisioning, group membership, and role assignments. 
 #### Leaver – User Offboarding
 
 Documented the offboarding process through account disabling, session revocation, group membership removal, license removal, role access review, and audit logs.
