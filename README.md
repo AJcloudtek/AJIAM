@@ -25,3 +25,52 @@ Assigned directory roles and explored role-based access control and least privil
 Configured security groups and assigned users to groups to manage access.
 <img width="952" height="446" alt="IMG_9239" src="https://github.com/user-attachments/assets/7e61e636-8144-44b1-81d0-81793a2ecbe5" />
 
+### 5. Identity Lifecycle Management (Joiner–Mover–Leaver)
+
+Practiced identity lifecycle management in Microsoft Entra ID, including user provisioning, changes to employee attributes, and offboarding.
+
+#### Leaver – User Offboarding
+
+Documented the offboarding process through account disabling, session revocation, group membership removal, license removal, role access review, and audit logs.
+
+#### Offboarding Evidence
+
+**1. Account Before Offboarding**
+
+![Account enabled](screenshots/Leaver%20account%20enabled.png)
+
+**2. Account Disabled**
+
+![Account disabled](screenshots/Leaver%20account%20disabled.png)
+
+**3. Session Revocation**
+
+![Session revocation](screenshots/Leaver%20account%20revocation.png)
+
+**4. Group Membership Removal**
+
+![Group membership before](screenshots/Leaver%20groups%20membership%20before.png)
+
+![Group removal](screenshots/Leaver%20group%20removal.png)
+
+![Group membership after](screenshots/Leaver%20group%20after.png)
+
+**5. License Removal**
+
+![License before](screenshots/Leaver%20License%20before.png)
+
+![License removed](screenshots/Leaver%20licensce%20removed.png)
+
+![License removal audit log](screenshots/Leaver%20License%20removal%20audit%20log.png)
+
+**6. Role Access Review**
+
+![Role before](screenshots/Leaver%20role%20before.png)
+
+![Role after](screenshots/Leaver%20role%20after.png)
+
+**7. Offboarding Audit Logs**
+
+![Account audit logs](screenshots/Leaver%20audit%20logs.png)
+
+![Offboarding audit logs](screenshots/leaver%20off%20boarding%20audit%20logs.png)
