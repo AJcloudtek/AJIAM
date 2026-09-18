@@ -31,6 +31,14 @@ Practiced identity lifecycle management in Microsoft Entra ID, including user pr
 ### Joiner – User Onboarding
 
 Created a new user in Microsoft Entra ID and configured initial access through user provisioning, group membership, and role assignments. 
+
+![Joiner account overview](screenshots/Joiner%20account%20overview.png)
+
+![Joiner group membership](screenshots/Joiner%20group%20membership.png)
+
+![Joiner role assignment](screenshots/Joiner%20role%20assignment.png)
+
+![Joiner license assignment](screenshots/Joiner%20license%20assignment.png)
 #### Leaver – User Offboarding
 
 Documented the offboarding process through account disabling, session revocation, group membership removal, license removal, role access review, and audit logs.
