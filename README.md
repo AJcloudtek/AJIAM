@@ -67,8 +67,8 @@ Documented the offboarding process through account disabling, session revocation
 
 ![Role before](screenshots/Leaver%20role%20before.png)
 
-![Role after](screenshots/Leaver%20role%20after.png)
-
+![Role removal confirmation](screenshots/Leaver%20role%20after.png)
+![Role after removal](screenshots/Leaver%20role%20after%202.png)
 **7. Offboarding Audit Logs**
 
 ![Account audit logs](screenshots/Leaver%20audit%20logs.png)
