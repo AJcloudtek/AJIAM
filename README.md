@@ -39,6 +39,22 @@ Created a new user in Microsoft Entra ID and configured initial access through u
 ![Joiner role assignment](screenshots/Joiner%20role%20assignment.png)
 
 ![Joiner license assignment](screenshots/Joiner%20license%20assignment.png)
+
+### Mover – User Access Changes
+
+Updated GWashington's job title and department to reflect a move to the Human Resources department. Reviewed HR group membership and documented the changes using Microsoft Entra ID audit logs.
+
+**1. Updated Job Information**
+
+![Mover HR job information](screenshots/Mover%20HR%20job%20info.png)
+
+**2. HR Group Membership**
+
+![Mover HR group membership](screenshots/Mover%20HR%20group%20membership.png)
+
+**3. Job Change Audit Log**
+
+![Mover job change audit log](screenshots/Move%20job%20change%20audit%20log.png)
 #### Leaver – User Offboarding
 
 Documented the offboarding process through account disabling, session revocation, group membership removal, license removal, role access review, and audit logs.
