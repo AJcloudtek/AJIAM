@@ -116,3 +116,6 @@ Reviewed Microsoft Entra ID sign-in logs to examine user sign-in activity and au
 Examined a successful sign-in record showing a multifactor authentication (MFA) requirement. The authentication details indicated that the MFA requirement was satisfied by a claim in the token, with previously satisfied authentication steps.
 
 This exercise demonstrated how to review sign-in activity and interpret authentication information for identity monitoring.
+### Sign-in Authentication Details
+
+![Sign-in Authentication Details](screenshots/Sign%20in%20aunthentication%20details.png)
