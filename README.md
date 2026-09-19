@@ -100,3 +100,12 @@ Documented the offboarding process through account disabling, session revocation
 ![Account audit logs](screenshots/Leaver%20audit%20logs.png)
 
 ![Offboarding audit logs](screenshots/leaver%20off%20boarding%20audit%20logs.png)
+## 6. Authentication Methods Review
+
+Reviewed authentication method options for a test user in Microsoft Entra ID.
+
+Explored the available authentication methods, including email, phone numbers, and Temporary Access Pass. No changes were made to the user's authentication settings.
+
+### Authentication Methods Screenshot
+
+![Authentication Methods Review](screenshots/Authentication%20methods%20review.png)
