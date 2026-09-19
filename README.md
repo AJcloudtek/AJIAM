@@ -109,3 +109,10 @@ Explored the available authentication methods, including email, phone numbers, a
 ### Authentication Methods Screenshot
 
 ![Authentication Methods Review](screenshots/Authentication%20methods%20review.png)
+## 7. Sign-In Logs Review
+
+Reviewed Microsoft Entra ID sign-in logs to examine user sign-in activity and authentication results.
+
+Examined a successful sign-in record showing a multifactor authentication (MFA) requirement. The authentication details indicated that the MFA requirement was satisfied by a claim in the token, with previously satisfied authentication steps.
+
+This exercise demonstrated how to review sign-in activity and interpret authentication information for identity monitoring.
